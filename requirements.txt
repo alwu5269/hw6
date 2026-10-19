@@ -1,0 +1,5 @@
+pydantic-ai-slim[openai]==2.57.0
+openai==3.33.0
+pypdf==6.21.1
+# only needed to rebuild the attack documents in data/my_attacks
+reportlab==5.0.1

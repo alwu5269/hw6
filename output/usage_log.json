@@ -1,0 +1,108 @@
+[
+  {
+    "doc": "data/practice_docs/p01_bluehen_quote.html",
+    "time": "2026-10-17T16:27:32.163074+00:00",
+    "seconds": 0.7,
+    "input_tokens": 21583,
+    "cached_input_tokens": 10589,
+    "output_tokens": 143,
+    "cost_usd": 0.001546
+  },
+  {
+    "doc": "data/practice_docs/p03_ivyprint_catalog.html",
+    "time": "2026-10-17T16:27:37.773951+00:00",
+    "seconds": 4.89,
+    "input_tokens": 21584,
+    "cached_input_tokens": 21159,
+    "output_tokens": 185,
+    "cost_usd": 0.000351
+  },
+  {
+    "doc": "data/practice_docs/p08_chapelst_email.eml",
+    "time": "2026-10-17T16:27:43.918147+00:00",
+    "seconds": 5.38,
+    "input_tokens": 21578,
+    "cached_input_tokens": 21160,
+    "output_tokens": 193,
+    "cost_usd": 0.000354
+  },
+  {
+    "doc": "data/practice_docs/p05_maplemills_quote.pdf",
+    "time": "2026-10-17T16:27:50.673177+00:00",
+    "seconds": 6.03,
+    "input_tokens": 21552,
+    "cached_input_tokens": 21159,
+    "output_tokens": 174,
+    "cost_usd": 0.000342
+  },
+  {
+    "doc": "data/practice_docs/p01_bluehen_quote.html",
+    "time": "2026-10-17T16:30:06.364754+00:00",
+    "seconds": 1.96,
+    "input_tokens": 21583,
+    "cached_input_tokens": 10589,
+    "output_tokens": 143,
+    "cost_usd": 0.001546
+  },
+  {
+    "doc": "data/practice_docs/p08_chapelst_email.eml",
+    "time": "2026-10-17T16:30:08.469466+00:00",
+    "seconds": 1.24,
+    "input_tokens": 21578,
+    "cached_input_tokens": 21160,
+    "output_tokens": 193,
+    "cost_usd": 0.000354
+  },
+  {
+    "doc": "data/practice_docs/p02_elmcity_quote.html",
+    "time": "2026-10-18T16:56:34.801914+00:00",
+    "layers": [
+      "code",
+      "design",
+      "prompt"
+    ],
+    "seconds": 7.14,
+    "input_tokens": 1524,
+    "cached_input_tokens": 0,
+    "output_tokens": 125,
+    "cost_usd": 0.0002149
+  },
+  {
+    "doc": "data/practice_docs/p01_bluehen_quote.html",
+    "time": "2026-10-18T16:56:36.178555+00:00",
+    "layers": [],
+    "seconds": 0.73,
+    "input_tokens": 21583,
+    "cached_input_tokens": 10589,
+    "output_tokens": 143,
+    "cost_usd": 0.00154554
+  },
+  {
+    "doc": "data/practice_docs/p01_bluehen_quote.html",
+    "time": "2026-10-18T19:46:56.931084+00:00",
+    "layers": [
+      "code",
+      "design",
+      "prompt"
+    ],
+    "seconds": 6.71,
+    "input_tokens": 1551,
+    "cached_input_tokens": 0,
+    "output_tokens": 109,
+    "cost_usd": 0.0002096
+  },
+  {
+    "doc": "data/practice_docs/p08_chapelst_email.eml",
+    "time": "2026-10-18T19:47:01.520807+00:00",
+    "layers": [
+      "code",
+      "design",
+      "prompt"
+    ],
+    "seconds": 3.8,
+    "input_tokens": 1546,
+    "cached_input_tokens": 0,
+    "output_tokens": 98,
+    "cost_usd": 0.0002036
+  }
+]
